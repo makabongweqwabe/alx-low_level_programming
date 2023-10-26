@@ -1,1 +1,1 @@
-0x12. C - Singly linked lists Projects
+0x12. C - Singly linked lists
